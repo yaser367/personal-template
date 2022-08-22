@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\.."
+		},
+		{
+			"path": "..\\..\\..\\..\\c program"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "webdesing challenge",
+		"files.associations": {
+			"stdio.h": "c"
+		}
+	}
+}
